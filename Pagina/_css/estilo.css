@@ -1,0 +1,11 @@
+a img{ width: 45px; height: 45px; margin-top: -12px; display: inline-flex}
+.carousel-inner img{height: 100px; width: 60%}
+.caption h3{text-align: center}
+.caption p{text-align: justify;}
+.text-center .img-responsive{margin: 0 auto}
+button{margin: 0 auto; text-align: center}
+#inicio{margin-top: -20px}
+h1, h2,h3,h4,p{ font-family: "Times New Roman", "Times", serif}
+
+/*fundo do site*/
+body{background-image: url(_img/fundo.jpg); background-attachment: fixed; background-size: 100%; background-color: white}
